@@ -3,6 +3,9 @@ It's a simple web application which is helps to get information about medicines 
 
 # website link for this application: 
   https://hareesh061.github.io/hospital-website/
+  
+  Here I hosted my application using GitHub but when I get the free subscription of Microsoft Azure I will Deploy on Azure.
+  
 # Home :
 Here just given introduction.
 
@@ -43,7 +46,7 @@ Here the client's are give the rating for the medicare experience.
 
 The medicare really helps to get a good experience and it also helps to overcome the time management.
                                      
-                                     
+                                   
   # Thank you
 
 
